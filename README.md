@@ -20,6 +20,11 @@ backend: api-server　RESTAPI Server
 % docker-compose up
 ```
 
+確認 (Chromeでアクセス)
+```
+http://localhost:8080
+```
+
 削除
 ```
 % docker-compose down
