@@ -1,0 +1,10 @@
+version: '3'
+services:
+  frontend:
+    build: ./vue-sb-admin2
+    ports:
+     - "8080:8080"
+  backend:
+    build: ./api-server
+    ports:
+     - "8081:8081"
