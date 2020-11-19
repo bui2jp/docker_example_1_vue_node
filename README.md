@@ -10,7 +10,7 @@ Docker version 19.03.5, build 633a0ea
 ## 構成 frontend + backend
 ```
 frontend: vue-sb-admin2 SPA web画面
-backend: api-server　RESTAPI Server
+backend: api-server　RESTAPI Server(Node v10 + express)
 ```
 
 ## Run & Stop
